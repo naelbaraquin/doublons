@@ -11,8 +11,3 @@ for a in liste:
     print(coupledict)
     dictionnaire[coupledict[1]] = coupledict[0]
 print(dictionnaire)
-
-#a = int()
-#while a != 6:
-#    print(a)
-#    a = a + 1
